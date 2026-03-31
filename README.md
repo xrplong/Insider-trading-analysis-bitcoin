@@ -1,6 +1,8 @@
 # Insider-trading-analysis-bitcoin
 We perform an analysis of the historical price (and other market metrics) of Bitcoin to determine potential cases of insider trading.
 
+In the past there have been anomalies in the crypto market, specifically Bitcoin, whereby a very large trade was opened in the momements before (minutes to hours) a large price swing occured. Many of these anomalies coincide with catalysts of, for example, Donald Trump making an announcement of Tariffs (datetime).
+
 
 # **README.md draft**
 The Abelian Sandpile Model is the common name for the original Bak-Tang-Wiesenfeld Model which was the first discovered example of a system to display Self-Organized Criticality. The Abelian Sandpile Model attempts to predict and model avalanches within a sandpile. This model was first introduced in a 1987 paper by Bak, Tang, Wisenfeld. Since then many extension of the model have been built and much research has gone into understanding the statistics of the model.
